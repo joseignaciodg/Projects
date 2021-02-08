@@ -1,3 +1,0 @@
-﻿  Source.cpp
-c:\users\josei\fp\projects\project2\mastermind\project2\source.cpp(26): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
-  Project2.vcxproj -> C:\Users\josei\FP\Projects\project2\Mastermind\Debug\Project2.exe

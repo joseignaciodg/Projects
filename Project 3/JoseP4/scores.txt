@@ -1,5 +1,0 @@
-Victor 100
-Clara 20
-Javier 5
-b 2
-Alberto 1
