@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\josei\desktop\robotic turtles\project3\josep4\main.cpp(17): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  JoseP4.vcxproj -> C:\Users\josei\Desktop\Robotic Turtles\Project3\Debug\JoseP4.exe
